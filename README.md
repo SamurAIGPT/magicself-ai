@@ -17,6 +17,11 @@
 
 https://github.com/user-attachments/assets/ea5b3cbe-c7f4-467e-8ee2-18629e833ba4
 
+## Related Projects
+
+- [MuAPI image-editing playground](https://muapi.ai/playground/gpt-image-2-image-to-image?utm_source=github&utm_medium=readme&utm_campaign=magicself-ai) — transform selfie references into new art styles
+- [MuAPI model catalog](https://muapi.ai/docs/models?utm_source=github&utm_medium=readme&utm_campaign=magicself-ai) — compare image-generation and editing models
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/magicself-ai](https://github.com/SamurAIGPT/magicself-ai)
